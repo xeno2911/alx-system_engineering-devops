@@ -1,1 +1,2 @@
-0 string SCHOOL School data file
+#!/bin/bash
+telnet towel.blinkenlights.nl
